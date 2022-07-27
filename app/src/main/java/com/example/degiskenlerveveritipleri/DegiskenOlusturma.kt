@@ -11,14 +11,18 @@ fun main(){
     println(ogrenciYas)
     println(ogrenciBoy)
     println(ogrenciBasHarf)
+
 //double floattan daha büyük
-//double floattan daha büyük // var urun_ıd:Int = 3416
+
+//double floattan daha büyük
+
+    var urun_ıd:Int = 3416
     var urun_ad:String = "Araba"
     var urun_adet:Int = 100
     var urun_fiyat:Double = 109.99
     var urun_tedarikci:String = "BMW 3.20 D M SPORT"
 
-
+    println(urun_ıd)
     println(urun_ad)
     println(urun_adet)
     println(urun_fiyat)
