@@ -31,7 +31,7 @@ fun main(){
 
     //Örnek 4 : Type Safety Özelliği
 
-    var sonuc = 100
+    var sonuc = 100.99
 
     sonuc = 1.98
 }
